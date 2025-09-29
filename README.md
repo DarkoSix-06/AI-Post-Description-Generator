@@ -101,6 +101,9 @@ MIT — feel free to use, modify, and ship.
 👨‍⚕️ Author
 Darko Six_Nimesh Tharaka
 AI Engineer | Data Science | Exploring AI, Machine Learning, and Big Data
+
 📧 Gmail-bandaranayakanimesh@gmail.com
+
 🌐 Portfolio-
+
 🔗 LinkedIn-www.linkedin.com/in/nimesh-bandaranayake-0a2912304
