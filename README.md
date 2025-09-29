@@ -6,7 +6,8 @@ Backend calls **Gemini 2.0**; your API key stays **server-side**. Frontend is a 
 ---
 
 ## 📸 Live Demo Screenshot
-<img width="520" height="491" alt="Screenshot 2025-09-26 130011" src="https://github.com/user-attachments/assets/b1b2528a-f2d3-4a3a-bd10-f9d851b2e2f9" />
+<img width="706" height="672" alt="image" src="https://github.com/user-attachments/assets/0a8a0ff6-bfc5-4f1a-bbdb-da6914e9146d" />
+
 
 ---
 
