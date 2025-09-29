@@ -13,7 +13,7 @@ Backend calls **Gemini 2.0**; your API key stays **server-side**. Frontend is a 
 
 ## 🚀 Features
 
-- ✍️ Generates **one tight paragraph (40–50 words)** from minimal inputs
+- ✍️ Generates **one tight paragraph (50–100 words)** from minimal inputs
 - 🎛️ Presets for **Tone** (Professional/Friendly/Luxury/Youthful) & **Angle** (Quality/Value/Speed/Trust/Offer/Urgency)
 - 🔒 **Backend-only** API key (never exposed to the browser)
 - 🧪 **Diagnostics** endpoint to verify key visibility
